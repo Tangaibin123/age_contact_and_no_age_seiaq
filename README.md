@@ -1,0 +1,4 @@
+代码仿真脚本在script 中
+age-structed是含年龄结构的模型仿真，上海年龄接触矩阵和年龄分布在data文件夹中
+no age_structed是不含年龄结构的
+new_model 是一些自定义模型仿真和一些结果的plot
